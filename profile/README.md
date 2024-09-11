@@ -1,4 +1,4 @@
-# Github Usage Rules
+# Github Repo Naming
 
 ## Issue
 Github doesn't do enough to help users organize repositories. Public tags, stars and the ability to add repos to "Teams" are the options available but still there is friction in repo discovery, quick understanding and management. 
