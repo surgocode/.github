@@ -1,7 +1,8 @@
 # Github Usage Rules
 
 ## Issue
-Github doesn't do enough to help users organize repositories. They provide public tags, stars and the ability to add repos to "Teams" but still there is friction in repo discovery, quick understanding and management. 
+Github doesn't do enough to help users organize repositories. Public tags, stars and the ability to add repos to "Teams" are the options available but still there is friction in repo discovery, quick understanding and management. 
+
 ## Solution
 The best solution right now, and just in general as a best practice, is to set and enforce a strict naming convention for repositories. The following is an evolution of options and opinion on the best version. 
 ## Options
